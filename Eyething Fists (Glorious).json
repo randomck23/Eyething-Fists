@@ -1,0 +1,80 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Sound",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Hit Replace",
+          "replace_ids": [
+            13160401062
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Fists/raw/refs/heads/main/eyething%20punch.mp3"
+        },
+        {
+          "name": "Inspect Replace",
+          "replace_ids": [
+            13160489311
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Fists/raw/refs/heads/main/eyething%20crack.mp3"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Cuff Replace",
+          "replace_ids": [
+            116084934350794
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Eyething-Fists/raw/refs/heads/main/eyething%20fists%20arm.obj"
+        },
+        {
+          "name": "Gold Band Replace",
+          "replace_ids": [
+            128920822768315
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Eyething-Fists/raw/refs/heads/main/eyething%20fists%20eyes.obj"
+        },
+        {
+          "name": "Hide Extras",
+          "replace_ids": [
+            90649799071023,
+            86806391690712
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Icon",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Icon Replace",
+          "replace_ids": [
+            112839297231399,
+            72268337520152
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Eyething-Fists/blob/main/eyething%20fist%20thumbnail.png?raw=true"
+        }
+      ]
+    }
+  ]
+}
